@@ -20,8 +20,7 @@
                 <a href="{{route('admin.posts.index')}}" class="btn btn-primary">Blog List</a>
             </div>
         </div>
-        <!--end breadcrumb-->
-
+        <!--end breadcrumbs-->
         <div class="card">
             <div class="card-body p-4">
                 <h5 class="card-title">Edit Blog</h5>
